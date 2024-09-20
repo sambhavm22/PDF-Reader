@@ -1,4 +1,4 @@
-**MultiPDF Reader using RAG**
+# MultiPDF Reader using RAG
 
 This project is a MultiPDF Reader using RAG (Retrieval-Augmented Generation), designed to take multiple PDF files as input and generate outputs using the latest information from the provided PDFs and the OpenAI LLM model. The interface is built with Streamlit, providing an easy-to-use web interface for users to upload PDFs and get responses based on the content.
 

@@ -65,10 +65,10 @@ Project Structure
 
 MultiPDF-Reader-RAG/
 │
-├── app.py              # Main Streamlit app file
-├── requirements.txt    # Python dependencies
-├── .env.example        # Example environment file
-├── README.md           # Project README file
-└── data/               # Directory for storing PDFs and output files
+├── app.py           ->    # Main Streamlit app file
+├── requirements.txt ->   # Python dependencies
+├── .env.example     ->   # Example environment file
+├── README.md        ->   # Project README file
+└── data/            ->   # Directory for storing PDFs and output files
 
 

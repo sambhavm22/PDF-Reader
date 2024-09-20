@@ -64,7 +64,7 @@ You can install all dependencies using the requirements.txt file:
 Project Structure
 
 MultiPDF-Reader-RAG/
-│
+
 ├── app.py           ->    # Main Streamlit app file
 ├── requirements.txt ->   # Python dependencies
 ├── .env.example     ->   # Example environment file

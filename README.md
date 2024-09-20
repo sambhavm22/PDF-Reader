@@ -75,3 +75,7 @@ MultiPDF-Reader-RAG/
 
 
 
+
+### For detailed description visit: 
+
+- https://sambhavm22.medium.com/multipdf-reader-using-rag-586494c2bb49

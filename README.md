@@ -20,19 +20,18 @@ This project is a MultiPDF Reader using RAG (Retrieval-Augmented Generation), de
 
 1. Clone the repository:
 
-git clone https://github.com/sambhavm22/PDF-Reader.git
+- git clone https://github.com/sambhavm22/PDF-Reader.git
 
 
 2. Create a virtual environment and activate it:
 
 
-python3 -m venv venv
-source venv/bin/activate
+- python3 -m venv venv
+- source venv/bin/activate
 
 3. Install the required dependencies
 
-
-pip install -r requirements.txt
+- pip install -r requirements.txt
 
 4. Set up environment variables by creating a .env file with the necessary keys (e.g., OpenAI API key).
 

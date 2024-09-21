@@ -8,7 +8,8 @@ This project is a MultiPDF Reader using RAG (Retrieval-Augmented Generation), de
 3. Usage
 4. Dependencies
 5. Project Structure
-6. License
+6. Docker Setup
+7. License
 
 **Features**
 1. Multi-PDF Input: Upload multiple PDFs simultaneously.
@@ -74,6 +75,19 @@ MultiPDF-Reader-RAG/
 | `data/`              | Directory for storing PDFs and output files |
 
 
+**Dockerfile Setup**
+
+
+To run the application in a Docker container, follow these steps:
+
+1. Build the Docker image:
+- ``docker build -t multiple-pdf-reader .``
+
+2. Run the Docker container:
+- docker run -it -p 8501:8501 multiple-pdf-reader
+
+3. Access the application:
+- Go to http://localhost:8501 in your browser.
 
 
 ### For detailed description visit: 
